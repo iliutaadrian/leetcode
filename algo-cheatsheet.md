@@ -100,3 +100,66 @@ Process:
 #### Largest Rectangle In Histogram
 
 
+### Binary Search
+#### Binary Search - [704](704.py)
+#### Search a 2D Matrix	
+#### Koko Eating Bananas	
+#### Find Minimum In Rotated Sorted Array	
+#### Search In Rotated Sorted Array	
+#### Time Based Key Value Store	
+#### Median of Two Sorted Arrays
+
+### Linked List
+Reverse Linked List	
+Merge Two Sorted Lists	
+Reorder List	
+Remove Nth Node From End of List	
+Copy List With Random Pointer	
+Add Two Numbers	
+Linked List Cycle	
+Find The Duplicate Number	
+LRU Cache	
+Merge K Sorted Lists	
+Reverse Nodes In K Group
+
+### Trees
+Invert Binary Tree
+Maximum Depth of Binary Tree	
+Diameter of Binary Tree	
+Balanced Binary Tree	
+Same Tree	
+Subtree of Another Tree	
+Lowest Common Ancestor of a Binary Search Tree	
+Binary Tree Level Order Traversal	
+Binary Tree Right Side View	
+Count Good Nodes In Binary Tree	
+Validate Binary Search Tree	
+Kth Smallest Element In a Bst	
+Construct Binary Tree From Preorder And Inorder Traversal	
+Binary Tree Maximum Path Sum	
+Serialize And Deserialize Binary Trees
+
+### Heap / Priority Queue
+Kth Largest Element In a Stream	
+Last Stone Weight	
+K Closest Points to Origin	
+Kth Largest Element In An Array	
+Task Scheduler	
+Design Twitter	
+Find Median From Data Stream
+
+### Backtracking
+Subsets	
+Combination Sum	
+Permutations	
+Subsets II	
+Combination Sum II	
+Word Search	
+Palindrome Partitioning	
+Letter Combinations of a Phone Number	
+N Queens
+
+### Tries
+Implement Trie Prefix Tree	
+Design Add And Search Words Data Structure	
+Word Search II
